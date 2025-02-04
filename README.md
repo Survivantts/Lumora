@@ -6,7 +6,7 @@ Este projeto contém o código-fonte e os recursos do nosso aplicativo de paleta
 📂 Estrutura do Diretório
 🔹 CF (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.
 
-🔹 UML: Diagramas e modelagens UML para melhor visualização da estrutura do projeto.
+🔹 UML: Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
 🔹 PPTX: Apresentações e slides relacionados ao desenvolvimento do projeto.
 🔹 Designer: Elementos visuais do app e do jogo.
 🔹 Icons: Ícones e imagens utilizadas na interface dos projetos.
