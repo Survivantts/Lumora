@@ -9,7 +9,7 @@ Este repositório contém o código-fonte e os recursos do nosso aplicativo de p
 🔹 [UML](UML): Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
 🔹 [PPTX](PPTX): Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
 🔹 [Designer](designer): Elementos visuais do app e do jogo.</br>
-🔹 [Icons](icons): Ícones e imagens utilizadas na interface dos projetos.</br>
+🔹 [Icons](Icons): Ícones e imagens utilizadas na interface dos projetos.</br>
 🔹 [Uteis](Uteis): Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.</br>
 
 
