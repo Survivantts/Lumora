@@ -5,12 +5,12 @@ Este repositório contém o código-fonte e os recursos do nosso aplicativo de p
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> Estrutura do Diretório
 
-🔹 CF (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.</br>
-🔹 UML: Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
-🔹 PPTX: Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
-🔹 Designer: Elementos visuais do app e do jogo.</br>
-🔹 Icons: Ícones e imagens utilizadas na interface dos projetos.</br>
-🔹 Uteis: Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.</br>
+🔹 [CF](CF): (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.</br>
+🔹 [UML](UML): Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
+🔹 [PPTX](PPTX): Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
+🔹 [Designer](designer): Elementos visuais do app e do jogo.</br>
+🔹 [Icons](icons): Ícones e imagens utilizadas na interface dos projetos.</br>
+🔹 [Uteis](Uteis): Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.</br>
 
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f426/512.gif" alt="🐦" width="32" height="32"> Sobre a Survivants
