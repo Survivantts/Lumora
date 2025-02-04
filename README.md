@@ -1,4 +1,4 @@
-# Lumora - Repositório  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> 
+# Projeto Lumora  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> 
 ## Bem-vindo ao repositório Lumora, desenvolvido pela equipe Survivants!
 Este repositório contém o código-fonte e os recursos do nosso aplicativo de paleta de cores Colorime e do nosso jogo inspirado no Flappy Bird, Voler Vite, ambos desenvolvidos em Java utilizando o NetBeans.
 
