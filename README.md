@@ -4,8 +4,8 @@ Bem-vindo ao repositório Lumora, desenvolvido pela equipe Survivants! 🚀
 Este projeto contém o código-fonte e os recursos do nosso aplicativo de paleta de cores Colorime e do nosso jogo inspirado no Flappy Bird Voler Vite, ambos desenvolvidos em Java utilizando o NetBeans.
 
 📂 Estrutura do Diretório
-🔹 CF (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.
 
+🔹 CF (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.</br>
 🔹 UML: Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
 🔹 PPTX: Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
 🔹 Designer: Elementos visuais do app e do jogo.</br>
@@ -20,6 +20,7 @@ A Survivants é uma equipe focada em desenvolver projetos inovadores e acessíve
 🔹 Missão: Proporcionar segurança através de um sistema de login e oferecer diversão tanto no aplicativo quanto no jogo.</br>
 
 📌 Tecnologias Utilizadas
-Java (NetBeans)</br>
-Swing (Interface Gráfica)</br>
-UML (Diagrama)</br>
+
+🔹Java (NetBeans)</br>
+🔹Swing (Interface Gráfica)</br>
+🔹UML (Diagrama)</br>
