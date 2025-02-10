@@ -5,33 +5,33 @@ Este repositório contém o código-fonte e os recursos do nosso aplicativo de p
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> Estrutura do Diretório
 
-🔹 [CF](CF): (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.</br>
-🔹 [UML](UML): Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
-🔹 [PPTX](PPTX): Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
-🔹 [Designer](designer): Elementos visuais do app e do jogo.</br>
-🔹 [Icons](Icons): Ícones e imagens utilizadas na interface dos projetos.</br>
-🔹 [Uteis](Uteis): Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.</br>
+🔶 [CF](CF): (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.</br>
+🔶 [UML](UML): Diagramas e modelagens UML para melhor visualização da estrutura do projeto.</br>
+🔶 [PPTX](PPTX): Apresentações e slides relacionados ao desenvolvimento do projeto.</br>
+🔶 [Designer](designer): Elementos visuais do app e do jogo.</br>
+🔶 [Icons](Icons): Ícones e imagens utilizadas na interface dos projetos.</br>
+🔶 [Uteis](Uteis): Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.</br>
 
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f426/512.gif" alt="🐦" width="32" height="32"> Sobre a Survivants
 A Survivants é uma equipe focada em desenvolver projetos inovadores e acessíveis.</br>
 
-🔹 Visão: Alcançar um bom desempenho, adquirir experiência e prática.</br>
-🔹 Valores: Criatividade, acessibilidade, trabalho em equipe e aprendizado.</br>
-🔹 Missão: Proporcionar segurança através de um sistema de login e oferecer diversão tanto no aplicativo quanto no jogo.</br>
+🔶 Visão: Alcançar um bom desempenho, adquirir experiência e prática.</br>
+🔶 Valores: Criatividade, acessibilidade, trabalho em equipe e aprendizado.</br>
+🔶 Missão: Proporcionar segurança através de um sistema de login e oferecer diversão tanto no aplicativo quanto no jogo.</br>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"> Tecnologias Utilizadas
 
-🔹 Java (NetBeans)</br>
-🔹 Swing (Interface Gráfica)</br>
-🔹 UML (Diagrama)</br>
+🔶 Java (NetBeans)</br>
+🔶 Swing (Interface Gráfica)</br>
+🔶 UML (Diagrama)</br>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"> Desenvolvedores
-🔹 [Amanda](https://github.com/AmandaSimao01)</br>
-🔹 [Yuri/Thalita](https://github.com/YuriThali)</br>
+🔶 [Amanda](https://github.com/AmandaSimao01)</br>
+🔶 [Yuri/Thalita](https://github.com/YuriThali)</br>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32"> Designers
 
-🔹 [Renara](https://github.com/Renaras)</br>
-🔹 [Yasmin](https://github.com/yasmin0liver)</br>
+🔶 [Renara](https://github.com/Renaras)</br>
+🔶 [Yasmin](https://github.com/yasmin0liver)</br>
 
